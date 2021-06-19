@@ -1,0 +1,2 @@
+rootProject.name = "Tasks_Get_my_ task"
+include ':app'
